@@ -1,5 +1,4 @@
 ---
-layout: full_page
 ---
 
 ### Workshop Learning Objectives (*Fundamentals of Deep Learning*)
