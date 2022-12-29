@@ -1,3 +1,7 @@
+---
+layout: full_page
+---
+
 ### Workshop Learning Objectives (*Fundamentals of Deep Learning*)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning)
